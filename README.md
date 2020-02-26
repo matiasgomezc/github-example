@@ -1,3 +1,3 @@
 # github-example
-repository for coursera
+Repository for coursera. 
 This notebook will be used mainly for the Capstone Project
